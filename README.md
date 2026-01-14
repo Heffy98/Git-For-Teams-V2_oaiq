@@ -1,8 +1,8 @@
 # Before you do anything, you must FORK this repo. Failing to do so will result in several issues down the line.
 
-# GitForTeams 
+# GitForTeams V2
 
-V1 Conflict Demo Repo for practicing Git collaboration workflows, including branching, merging, and conflict resolution.
+V2 Conflict Demo Repo for practicing Git collaboration workflows, including cloning, branching, merging, and conflict resolution.
 
 ---
 
@@ -16,7 +16,7 @@ V1 Conflict Demo Repo for practicing Git collaboration workflows, including bran
 ---
 
 ## Folder Structure
-GitForTeams/ 
+GitForTeams-V2/ 
 ├── Issue#1/
     ├──README.md
 ├── Issue#2/
